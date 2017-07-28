@@ -7,11 +7,13 @@
 * 이용방법
 
 # 기능
-1. 마크다운 편집기
-2. 수정 히스토리 보기
-3. Youtube 비디오 삽입
+### 1. 마크다운 편집기
+### 2. 수정 히스토리 보기
+### 3. Youtube 비디오 삽입
 [video](https://www.youtube.com/watch?v=XbGs_qK2PQA){.youtube}
-4. 코드 블락 삽입
+
+### 4. 코드 블락 삽입
+
 ```yaml
 title: 서울청위키-개발
 host: 'http://localhost'
