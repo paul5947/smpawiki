@@ -10,6 +10,7 @@
 ### 1. 마크다운 편집기
 ### 2. 수정 히스토리 보기
 ### 3. Youtube 비디오 삽입
+
 [video](https://www.youtube.com/watch?v=XbGs_qK2PQA){.youtube}
 
 ### 4. 코드 블락 삽입
@@ -26,3 +27,6 @@ uploads:
   maxOtherFileSize: 100
 ```
 
+### 5. 이미지 삽입
+
+[!image](http://www.lafent.com/news/data/news/img1/106710.jpg)
