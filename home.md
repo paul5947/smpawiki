@@ -1,7 +1,7 @@
 <!-- TITLE: 서울청 위키 -->
 <!-- SUBTITLE: 지식관리시스템 -->
 
-[image](http://www.lafent.com/news/data/news/img1/106710.jpg)
+[image](http://www.lafent.com/news/data/news/img1/106710.jpg){.img}
 
 [video](https://www.youtube.com/watch?v=XbGs_qK2PQA){.youtube}
 
