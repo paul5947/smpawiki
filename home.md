@@ -1,6 +1,9 @@
 <!-- TITLE: 서울청 위키 -->
 <!-- SUBTITLE: 지식관리시스템 -->
 
+
+[video](https://www.youtube.com/watch?v=XbGs_qK2PQA){.youtube}
+
 # 환영합니다
 더 편리한 지식관리시스템을 위해서 만들었습니다
 * 이용방법
