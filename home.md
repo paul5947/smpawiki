@@ -29,4 +29,4 @@ uploads:
 
 ### 5. 이미지 삽입
 
-[!image](http://www.lafent.com/news/data/news/img1/106710.jpg)
+![image](http://www.lafent.com/news/data/news/img1/106710.jpg)
