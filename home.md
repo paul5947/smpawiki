@@ -15,6 +15,7 @@
 
 ### 4. 코드 블락 삽입
 
+
 ```yaml
 title: 서울청위키-개발
 host: 'http://localhost'
@@ -26,6 +27,7 @@ uploads:
   maxImageFileSize: 3
   maxOtherFileSize: 100
 ```
+
 
 ### 5. 이미지 삽입
 
